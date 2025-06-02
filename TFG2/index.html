@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Colección Musical</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo">
+            <h1><span class="red-text">M</span>usic</h1>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#" class="active" id="nav-inicio-link"><i class="fas fa-home"></i> Inicio</a></li>
+            <li><a href="#" id="sidebar-search-link"><i class="fas fa-search"></i> Buscar</a></li>
+            <li><a href="#" id="nav-your-library-link"><i class="fas fa-compact-disc"></i> Tu Biblioteca</a></li>
+        </ul>
+        <div class="playlists">
+            <h3>Playlists</h3>
+            <ul>
+                <li><a href="#" id="nav-create-playlist-link"><i class="fas fa-plus"></i> Crear playlist</a></li>
+                <li><a href="#" id="nav-liked-songs-link"><i class="fas fa-heart"></i> Canciones que te gustan</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="main-content">
+        <header class="top-bar">
+            </header>
+        <div class="content-area">
+            <div id="explore-albums-section">
+                <h2>Explorar Álbumes</h2>
+                <div class="search-controls">
+                    <div class="search-input-container">
+                        <input type="text" id="search-input" placeholder="Buscar álbumes por título, artista...">
+                        <button id="clear-search"><i class="fas fa-times"></i></button>
+                    </div>
+                    <select id="search-criterion">
+                        <option value="all">Todos los criterios</option>
+                        <option value="titulo">Título</option>
+                        <option value="artista">Artista</option>
+                        <option value="genero">Género</option>
+                        <option value="año">Año</option>
+                    </select>
+                    <button id="apply-filter-button">Buscar</button>
+                </div>
+                <div class="album-grid" id="album-grid">
+                    </div>
+            </div>
+
+            <div id="your-library-section" class="hidden-section">
+                <h2>Tu Biblioteca</h2>
+                <div class="library-album-grid album-grid" id="library-album-grid">
+                    </div>
+                <p id="empty-library-message" style="color: #b3b3b3; text-align: center; margin-top: 50px; display: none;">Aún no has añadido álbumes a tu biblioteca.</p>
+            </div>
+
+            <div id="create-playlist-section" class="hidden-section">
+                <h2>Crear Nueva Playlist</h2>
+                <p style="color: #b3b3b3; text-align: center; margin-top: 50px;">Aquí podrías implementar la lógica para crear y gestionar tus propias playlists.</p>
+                </div>
+
+            <div id="liked-songs-section" class="hidden-section">
+                <h2>Canciones que te gustan</h2>
+                <div class="liked-songs-grid album-grid" id="liked-songs-grid">
+                    </div>
+                <p id="empty-liked-message" style="color: #b3b3b3; text-align: center; margin-top: 50px; display: none;">No hay canciones que te gusten todavía. ¡Añade algunas!</p>
+            </div>
+
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,869 @@
+[
+  {
+    "titulo": "Northern Exposure",
+    "artista": "Sasha & John Digweed",
+    "año": "1996",
+    "genero": "Trance",
+    "tamaño" : "2xCD",
+    "foto": "img/Northern_Exposure_1.jpg",
+    "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=aaY3spCDdpY&t=2607s"}
+    ]
+  },
+  { 
+  "titulo": "Northern Exposure 2",
+  "artista": "Sasha & John Digweed",
+  "año": "1997", 
+  "genero": "Trance",
+  "tamaño" : "2xCD",
+  "foto": "img/Northern_Exposure_2.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=l2NNAoTFYJE"},
+        {"nombre": "CD 2", "url":"https://www.youtube.com/watch?v=-JPL7Bkq8LE&t=106ss"}
+    ]
+  },
+  { 
+  "titulo": "Northern Exposure 3",
+  "artista": "Sasha & John Digweed",
+  "año": "1999", 
+  "genero": "Trance",
+  "tamaño" : "2xCD",
+  "foto": "img/Northern_Exposure_3.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=ktSiTUL3r78&t=338s"},
+        {"nombre": "CD 2", "url":"https://www.youtube.com/watch?v=cwlVHPixM1M&t=306s"}
+    ]
+  }, 
+  { 
+  "titulo": "The Massacre",
+  "artista": "The Exploited",
+  "año": "1990", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/The_Exploited-The_Massacre.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=hQQXpMApj4E"}
+    ]
+  },  
+  { 
+  "titulo": "Death Before Dishonour",
+  "artista": "The Exploited",
+  "año": "1987", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/The_Exploited-Death_Before_Dishonour.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=65AruzHG8Qc"}
+    ]
+  },
+  { 
+  "titulo": "Troops of Tomorrow",
+  "artista": "The Exploited",
+  "año": "1982", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/The_Exploited-Troops_of_tomorrow.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=otJImuNzRlY"}
+    ]
+  },
+  {
+  "titulo": "Complete Discography",
+  "artista": "Minor Threat",
+  "año": "1989", 
+  "genero": "Hardcore",
+  "tamaño" : "1xCD",
+  "foto": "img/Minor_Threat-Complete-Discography.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=0KRbiDzKx0g&t=409s"}
+    ]
+  },
+  {
+  "titulo": "Presoak SOS",
+  "artista": "Etsaiak",
+  "año": "1994", 
+  "genero": "Hardcore",
+  "tamaño" : "1xCD",
+  "foto": "img/Etsaiak_Presoak_Sos.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=bhYd-bttFvg&list=PLE6CB7E50EE3C390C"}
+    ]
+  },
+  {
+  "titulo": "Gerra Zikina",
+  "artista": "Etsaiak",
+  "año": "1995", 
+  "genero": "Hardcore",
+  "tamaño" : "1xCD",
+  "foto": "img/Etsaiak_Gerra_Zikina.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=FJVudTY24Yc&list=PLIGsglNTc7xxEC2PfMGhK3dF0WvGxfWU6"}
+    ]
+  },
+  {
+  "titulo": "Stranger than Fiction",
+  "artista": "Bad Religion",
+  "año": "1994", 
+  "genero": "Hardcore",
+  "tamaño" : "1xCD",
+  "foto": "img/Bad_Religion-Stranger_Than_Fiction.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=JDeMwTWxSV8&t=591s"}
+    ]
+  },
+  {
+  "titulo": "Recipe for Hate",
+  "artista": "Bad Religion",
+  "año": "1993", 
+  "genero": "Hardcore",
+  "tamaño" : "1xCD",
+  "foto": "img/Bad_Religion-Recipe_For_Hate.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=co8qjgHX6a0&t=116s"}
+    ]
+  },
+  {
+  "titulo": "80-85",
+  "artista": "Bad Religion",
+  "año": "1991", 
+  "genero": "Hardcore",
+  "tamaño" : "1xCD",
+  "foto": "img/Bad_Religion-80_85.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=R0ABphTZbu0&t=212s"}
+    ]
+  },
+  {
+  "titulo": "Nevermind",
+  "artista": "Nirvana",
+  "año": "1991", 
+  "genero": "Grunge",
+  "tamaño" : "1xCD",
+  "foto": "img/Nirvana-Nevermind.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=V0hDhjO3AwM&list=PL2Kt87NbIXSWhmsp8YEXDLU5nFi_qnBPq"}
+    ]
+  },
+  {
+  "titulo": "Pledge of Defiance",
+  "artista": "Total Chaos",
+  "año": "1994", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Total_Chaos-Pledge_Of_Defiance.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=n-RZoZ8QomE&t=293s"}
+    ]
+  },
+  {
+  "titulo": "Let's Go",
+  "artista": "Rancid",
+  "año": "1994", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Rancid-Let's_Go.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=f8GQ-nafTgY&list=PLF0yIDuA63HU_4omtZGJQZVOgeSVXCfua"}
+    ]
+  },
+  {
+  "titulo": "Maneras de Vivir",
+  "artista": "Leño",
+  "año": "1997", 
+  "genero": "Rock",
+  "tamaño" : "1xCD",
+  "foto": "img/Leño-Maneras_De_Vivir.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=6DAQpwlVOSU&t=367s"}
+    ]
+  },
+  {
+  "titulo": "Nunca es Tarde...",
+  "artista": "Reincidentes",
+  "año": "1994", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Reincidentes-Nunca_Es_Tarde.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=PddFtqGQCfg&list=PL1F973F93CA8A80BE"}
+    ]
+  },
+  {
+  "titulo": "Te lo dije",
+  "artista": "Reincidentes",
+  "año": "1997", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Reincidentes-Te_Lo_Dije.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=E4_I4yvA2G4&list=PL40E2D8084B07FC85"}
+    ]
+  },
+  {
+  "titulo": "Sol y Rabia",
+  "artista": "Reincidentes",
+  "año": "1993", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Reincidentes-Sol_Y_Rabia.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=F-S7_umwn2c&t=1420s"}
+    ]
+  },
+  {
+  "titulo": "Ni un Paso Atrás",
+  "artista": "Reincidentes",
+  "año": "1991", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Reincidentes-Ni_Un_Paso_Atras.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=mUHLC8oHbYE&t=746s"}
+    ]
+  },
+  {
+  "titulo": "Reincidentes",
+  "artista": "Reincidentes",
+  "año": "1989", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Reincidentes-Reincidentes.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=K62ViA4RX1E&list=PL708898168512BB0B"}
+    ]
+  },
+  {
+  "titulo": "¿Donde Está Judas?",
+  "artista": "Reincidentes",
+  "año": "1992", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Reincidentes-Donde_Esta_Judas.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=jOPgktGMxPc&list=PL0E12905F83A68F11"}
+    ]
+  },
+  {
+  "titulo": "Colgado por Ti",
+  "artista": "Cicatriz",
+  "año": "1993", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Cicatriz-Colgado_Por_Ti.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=btdj83ZdEg0&list=PLhx_KITauqp153R-RF6Eyukm9toQ8WWew"}
+    ]
+  },
+  {
+  "titulo": "Inadaptados",
+  "artista": "Cicatriz",
+  "año": "1993", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Cicatriz-Inadaptados.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=ksmVtRniIuw&t=445s"}
+    ]
+  },
+  {
+  "titulo": "4 años, 2 meses y 1 día",
+  "artista": "Cicatriz",
+  "año": "1993", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Cicatriz-4_Años_Dos_MesesY_Un_Dia.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=iK-K2JDKBZ8"}
+    ]
+  },
+  {
+  "titulo": "Salve",
+  "artista": "La Polla",
+  "año": "1985", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/La_Polla_Salve.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=VmYTtHqQcPs"}
+    ]
+  },
+  {
+  "titulo": "No Somos Nada",
+  "artista": "La Polla",
+  "año": "1987", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/La_Polla_No_Somos_Nada.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=CUdGp9N4_Bo&list=PLlTSqF66IqjW0QDdWAiikECrzqFdnm2Wu"}
+    ]
+  },
+  {
+  "titulo": "Enbata",
+  "artista": "Skunk",
+  "año": "1999", 
+  "genero": "Ska",
+  "tamaño" : "1xCD",
+  "foto": "img/Skunk_Enbata.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=95THZrg4eO8&list=PLz7VDCaFISNS8gLHtfNxX9t40io5urGov"}
+    ]
+  },
+  {
+  "titulo": "Gorrotoaren Ahotsa",
+  "artista": "Anestesia",
+  "año": "1993", 
+  "genero": "Trash",
+  "tamaño" : "1xCD",
+  "foto": "img/Anestesia_Gorrotoaren_Ahotsa.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=kpnXzhqx1zA"}
+    ]
+  },
+  {
+  "titulo": "Erantzun",
+  "artista": "Anestesia",
+  "año": "1995", 
+  "genero": "Trash",
+  "tamaño" : "1xCD",
+  "foto": "img/Anestesia_Erantzun.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=PPFcSy2mxRw"}
+    ]
+  },
+  {
+  "titulo": "The Chysalis Years",
+  "artista": "Ramones",
+  "año": "2002", 
+  "genero": "Punk",
+  "tamaño" : "3xCD",
+  "foto": "img/Ramones_The_Chrysalis_Years.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=8TWscY9sfT8&list=OLAK5uy_ktswAsXovmdcvOX6Efi-r2aHP3ogLhKpY"}
+    ]
+  },
+  {
+  "titulo": "Negu Gorriak",
+  "artista": "Negu Gorriak",
+  "año": "1990", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Negu_Gorriak_Negu_Gorriak.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=wJjaEU3Bwsc"}
+    ]
+  },
+  {
+  "titulo": "Gure Jarrera",
+  "artista": "Negu Gorriak",
+  "año": "1991", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Negu_Gorriak_Gure_Jarrera.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=851o0Vjf4L8&list=OLAK5uy_lqG0iTBxhPDte95synPgnZaY6wBfxhzaI"}
+    ]
+  },
+  {
+  "titulo": "Gora Herria",
+  "artista": "Negu Gorriak",
+  "año": "1990", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Negu_Gorriak_Gora_Herria.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=gaXUFmmYRHU&list=OLAK5uy_lkmx-S7xO-wXIAseMQm9oMfiXPMRAqeUM&index=2"}
+    ]
+  },
+  {
+  "titulo": "Borreroak Baditu Milaka Aurpegui",
+  "artista": "Negu Gorriak",
+  "año": "1993", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Negu_Gorriak_Borreroak.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=KUCu7XpyUSI"}
+    ]
+  },
+  {
+  "titulo": "Ideia Zabaldu",
+  "artista": "Negu Gorriak",
+  "año": "1995", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Negu_Gorriak_Ideia_Zabaldu.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=AQv7DyX4zaU&list=OLAK5uy_l9ptCQ93uB0DYaOrf0Se0ac031tplEb7c"}
+    ]
+  },
+  {
+  "titulo": "Ustelkeria",
+  "artista": "Negu Gorriak",
+  "año": "1996", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Negu_Gorriak_Ustelkeria.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=PM_Y3nlNv8Y&list=OLAK5uy_m3W19GNtrYIZXFwPH65Zo4TaJCe4_ITjg"}
+    ]
+  },
+  {
+  "titulo": "Salam, Agur",
+  "artista": "Negu Gorriak",
+  "año": "1996", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Negu_Gorriak_Salam_Agur.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=cDl_sHfH2w8"}
+    ]
+  },
+  {
+  "titulo": "Amodio eta gorrotozko kantak",
+  "artista": "Fermín Muguruza",
+  "año": "1998", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Fermin_Muguruza_Amodio_Eta_Gorrotozko.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=Jlf75EH9Sfo&list=OLAK5uy_ngYibV7O_4Je5gmX1gleFWnfJlIU_yuA8"}
+    ]
+  },
+  {
+  "titulo": "Ireki Ateak",
+  "artista": "Fermín Muguruza eta Dut",
+  "año": "1997", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Fermin_Muguruza_Eta_Dut_Ireki_Ateak.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=qHARFku72mo8"}
+    ]
+  },
+  {
+  "titulo": "Brigadistak Sound System",
+  "artista": "Fermín Muguruza",
+  "año": "1999", 
+  "genero": "World Music",
+  "tamaño" : "1xCD",
+  "foto": "img/Fermin_Muguruza_Brigadistak.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=7enPOE0RsYU"}
+    ]
+  },
+  {
+  "titulo": "B.S.S. Erremixak",
+  "artista": "Fermín Muguruza",
+  "año": "1999", 
+  "genero": "World Music",
+  "tamaño" : "1xCD",
+  "foto": "img/Fermin_Muguruza_Erremixak.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=2hqVLN3CfUc"}
+    ]
+  },
+  {
+  "titulo": "Kortatu",
+  "artista": "Kortatu",
+  "año": "1985", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Kortatu_Kortatu.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=Ymqo9gngFIM&list=PLp7iwHAk71UpBTnkeGic14ca0b70rJTKt"}
+    ]
+  },
+  {
+  "titulo": "El Estado de las Cosas",
+  "artista": "Kortatu",
+  "año": "1986", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Kortatu_El_Estado_De_Las_Cosas.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=kJjUzJFfUSs"}
+    ]
+  },
+  {
+  "titulo": "Kolpez Kolpe",
+  "artista": "Kortatu",
+  "año": "1988", 
+  "genero": "Punk",
+  "tamaño" : "1xCD",
+  "foto": "img/Kortatu_Kolpez_Kolpe.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=U2noTVkUuhI"}
+    ]
+  },
+  {
+  "titulo": "Azken Guda Dantza",
+  "artista": "Kortatu",
+  "año": "1988", 
+  "genero": "Punk",
+  "tamaño" : "2xCD",
+  "foto": "img/Kortatu_Azken_Guda_Dantza.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=BSz3IXDyJeA&list=PLsXCbvdJxV8d_WxgCMinr9wmaRGo3qdh5&index=1"}
+    ]
+  },
+  {
+  "titulo": "Live at Dance Terminal",
+  "artista": "Joey Beltran",
+  "año": "1999", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Joey_Beltran.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=cYrR86YOYU8"}
+    ]
+  },
+  {
+  "titulo": "Omen 03-10-1997",
+  "artista": "Sven Vath",
+  "año": "1997", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Sven_Vath_The_Omen_03_10_1997.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=h2OJ4D6uohU"}
+    ]
+  },
+  {
+  "titulo": "I Love Techno",
+  "artista": "Steve Rachmad",
+  "año": "2000", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Steve_Rachmad.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=fklcHr6A5UY"}
+    ]
+  },
+  {
+  "titulo": "Rxxistance Era",
+  "artista": "Oscar Mulero",
+  "año": "2000", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Oscar_Mulero_Rxxistance_Era.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=yGaBJ2gr4_Q"}
+    ]
+  },
+  {
+  "titulo": "Rxxistance Fusion",
+  "artista": "Oliver Ho",
+  "año": "2002", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Oliver_Ho_Rxxistance_Fusion.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=C2ERSRQ6apk"}
+    ]
+  },
+  {
+  "titulo": "Electro Boogie vol.2",
+  "artista": "Dave Clark",
+  "año": "1998", 
+  "genero": "Electro",
+  "tamaño" : "1xCD",
+  "foto": "img/Dave_Clark_Electro_Boogie_Vol2.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=DJC9aAUCM88"}
+    ]
+  },
+  {
+  "titulo": "Phuture Tech Trance",
+  "artista": "Oliver Lieb",
+  "año": "1998", 
+  "genero": "Techno-Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Oliver_Lieb_Phuture_Tech_Trance.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=heKT2G-_Hd0"}
+    ]
+  },
+  {
+  "titulo": "Dust",
+  "artista": "Peter Murphy",
+  "año": "2002", 
+  "genero": "Gotic",
+  "tamaño" : "1xCD",
+  "foto": "img/Peter_Murphy_Dust.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=C81Q5TJA_MA&list=PL82CB9372993D330E"}
+    ]
+  },
+  {
+  "titulo": "Deep",
+  "artista": "Peter Murphy",
+  "año": "1989", 
+  "genero": "Gotic",
+  "tamaño" : "1xCD",
+  "foto": "img/Peter_Murphy_Deep.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=KbCqojsBNPE&list=PLyIhNZsfiY8SxSn4JdPYwifEFKjleZW22"}
+    ]
+  },
+  {
+  "titulo": "Attica",
+  "artista": "Pepo",
+  "año": "1992", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Pepo_Attica.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=CoGzdTC-YH4"}
+    ]
+  },
+  {
+  "titulo": "The Omen 15-07-1995",
+  "artista": "Oscar Mulero",
+  "año": "1995", 
+  "genero": "Trance Acid",
+  "tamaño" : "1xCD",
+  "foto": "img/Oscar_Mulero_The_Omen.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=PM803_g2YKA"}
+    ]
+  },
+ {
+  "titulo": "Voltereta 2 Epocas",
+  "artista": "Muerto",
+  "año": "1991/1996", 
+  "genero": "Remember/Trance",
+  "tamaño" : "2xCD",
+  "foto": "img/Voltereta.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=qD_O6uw4fJI"},
+        {"nombre": "CD 2", "url":"https://www.youtube.com/watch?v=CJnEsvk4Gpg"}
+    ]
+  },
+ {
+  "titulo": "Specka 1994",
+  "artista": "Rafis",
+  "año": "1994", 
+  "genero": "Trance Acid",
+  "tamaño" : "1xCD",
+  "foto": "img/Specka.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=5cuiPBuD9eU"}
+    ]
+  },
+ {
+  "titulo": "Love Parade 2000",
+  "artista": "Carl Cox, Westbam & Paul Van Dyk",
+  "año": "2000", 
+  "genero": "Techno, Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Love_parade_2000.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=nPUjwwvqN5o"}
+    ]
+  },
+ {
+  "titulo": "Tranceport 1",
+  "artista": "Paul Oakenfold",
+  "año": "1998", 
+  "genero": "Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Tranceport_1_Paul_Oakenfold.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=1AnkRYFhSh4&list=PL9381DDBB08C8100A"}
+    ]
+  },
+ {
+  "titulo": "Tranceport 2",
+  "artista": "Dave Ralph",
+  "año": "1999", 
+  "genero": "Trance",
+  "tamaño" : "2xCD",
+  "foto": "img/Tranceport_2_Dave_Ralph.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=DnfWUydwrEM"},
+        {"nombre": "CD 2", "url":"https://www.youtube.com/watch?v=_FslvQCnnzoA"}
+    ]
+  },
+ {
+  "titulo": "Tranceport 3",
+  "artista": "Sandra Collins",
+  "año": "2000", 
+  "genero": "Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Tranceport_3_Sandra_Collins.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=5_dX1FERHD0"}
+    ]
+  },
+ {
+  "titulo": "Tranceport 4",
+  "artista": "Max Graham",
+  "año": "2001", 
+  "genero": "Trance",
+  "tamaño" : "2xCD",
+  "foto": "img/Tranceport_4_Max_Graham.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=7I-PziszXnQ"},
+        {"nombre": "CD 2", "url":"https://www.youtube.com/watch?v=occgR-q-5P0"}
+    ]
+  },
+ {
+  "titulo": "Tranceport 5",
+  "artista": "Quivver",
+  "año": "2001", 
+  "genero": "Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Tranceport_5_Quivver.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=H_aXyru7J5Y"}
+    ]
+  },
+ {
+  "titulo": "Live at Robot Heart - Burning Man 2024",
+  "artista": "Lee Burridge",
+  "año": "2024", 
+  "genero": "Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Lee_Burridge_Burning_Man.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=bCDun7jhQwE"}
+    ]
+  },
+ {
+  "titulo": "Airdrawndagger",
+  "artista": "Sasha",
+  "año": "2002", 
+  "genero": "Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Sasha_Airdrawndagger.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=W5p3W4gItaA"}
+    ]
+  },
+ {
+  "titulo": "Live at Home (Space Ibiza) 25/07/1999",
+  "artista": "Paul Oakenfold",
+  "año": "2002", 
+  "genero": "Trance",
+  "tamaño" : "1xCD",
+  "foto": "img/Paul_Oakenfold_Live_At_Space_Ibiza.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=srZbdxm3ds8"}
+    ]
+  },
+ {
+  "titulo": "Live at HR XXL Pitchcontrol 09/12/2002",
+  "artista": "Danilo Vigorito",
+  "año": "2002", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Danilo_Vigorito_Live_At_Hr_XXL.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=Y3P0SLHcRAg8"}
+    ]
+  },
+ {
+  "titulo": "Exalumnos Vol. 2",
+  "artista": "Dj Frank",
+  "año": "2002", 
+  "genero": "Remember",
+  "tamaño" : "1xCD",
+  "foto": "img/Exalumnos_Vol2.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=9FeIb0igQjM"}
+    ]
+  },
+ {
+  "titulo": "Exalumnos Vol. 3",
+  "artista": "Dj Frank",
+  "año": "2002", 
+  "genero": "Remember",
+  "tamaño" : "1xCD",
+  "foto": "img/Exalumnos_Vol2.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=WFVkH3AWhYU"}
+    ]
+  },
+ {
+  "titulo": "When We Dip 23/08/2024",
+  "artista": "Josh Wink",
+  "año": "2024", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Josh_Wink_When_We_Dip.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=3UToJnYNdhU"}
+    ]
+  },
+ {
+  "titulo": "Live at Fuse (Bruselas) Gigolo Records Night",
+  "artista": "Vitalic",
+  "año": "2002", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Vitalic_Live_At_Fuse.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=FyCZBmltxXA"}
+    ]
+  },
+ {
+  "titulo": "Faro de Moncloa 07/09/2020",
+  "artista": "Oscar Mulero",
+  "año": "2020", 
+  "genero": "Techno",
+  "tamaño" : "1xCD",
+  "foto": "img/Oscar_Mulero_Live_At_Faro_Moncloa.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=k5nOPltHgZI&t=3993s"}
+    ]
+  },
+ {
+  "titulo": "Analogical Force - Voiceless",
+  "artista": "Oscar Mulero",
+  "año": "2021", 
+  "genero": "Techno",
+  "tamaño" : "3xCD",
+  "foto": "img/Oscar_Mulero_Voiceless.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=6wDNuC-8D34"},
+        {"nombre": "CD 2", "url":"https://www.youtube.com/watch?v=1p0lCBbNqdU&t=2865s"},
+        {"nombre": "CD 3", "url":"https://www.youtube.com/watch?v=wHx7RhVgx2A&t=7s"}
+    ]
+  },
+ {
+  "titulo": "100th Window",
+  "artista": "Massive Attack",
+  "año": "2003", 
+  "genero": "Trip Hop",
+  "tamaño" : "1xCD",
+  "foto": "img/Massive_Attack_100th_Window.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=rhXuCz6gBUQ"}
+    ]
+  },
+ {
+  "titulo": "Mezzanine",
+  "artista": "Massive Attack",
+  "año": "1998", 
+  "genero": "Trip Hop",
+  "tamaño" : "1xCD",
+  "foto": "img/Massive_Attack_Mezzanine.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=ORxdyjvfItk"}
+    ]
+  },
+ {
+  "titulo": "Protection",
+  "artista": "Massive Attack",
+  "año": "1994", 
+  "genero": "Trip Hop",
+  "tamaño" : "1xCD",
+  "foto": "img/Massive_Attack_Protection.jpg",
+  "partes":[
+        {"nombre": "CD 1", "url":"https://www.youtube.com/watch?v=HfCylD7YOEg"}
+    ]
+  }
+
+
+]
